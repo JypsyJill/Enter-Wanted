@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites errors="1"
+<testsuites errors="0"
             failures="0"
-            tests="1">
+            tests="0">
 
-  <testsuite name="tests"
-    errors="1" failures="0" hostname="" id="" package="tests" skipped="0"
-    tests="1" time="0.006000" timestamp="Thu, 15 Mar 2018 21:19:26 GMT">
-  
-    <testcase name="New Name Test" classname="tests" time="0.006000" assertions="0">
-    </testcase>
+  <testsuite name="test2"
+    errors="0" failures="0" hostname="" id="" package="test2" skipped="0"
+    tests="0" time="0.000" timestamp="Thu, 15 Mar 2018 21:19:26 GMT">
   
 
   
