@@ -11,6 +11,12 @@ module.exports = {
         hair: 'input[name="haiInput"]',
         offense: 'input[name="offInput"]',
         date: 'input[name="dowInput"]',
+        dl: 'input[name="olnInput"]',
+        dlst: 'input[name="olsInput"]',
+        dlex: 'input[name="olyInput"]',
+        lplat: 'input[name="licInput"]',
+        lpst: 'input[name="lisInput"]',
+        lyear: 'input[name="liyInput"]'
     }
 
 

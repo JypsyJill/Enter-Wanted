@@ -18,8 +18,26 @@ module.exports = {
     'Bad Data Test': browser => {
         browser.expect.element('#saveBtn').to.not.be.enabled
         functions.nameTest(browser, selectors.selector, data.baddata)
+    }, 
+    'testingLow': browser => {
+        browser.expect.element('#saveBtn').to.not.be.enabled
+        functions.nameTest(browser, selectors.selector, data.testingLow)
+    },
+    'testingHigh': browser => {
+        browser.expect.element('#saveBtn').to.not.be.enabled
+        functions.nameTest(browser, selectors.selector, data.testingHigh)
+    },
+    'testingOutside': browser => {
+        browser.expect.element('#saveBtn').to.not.be.enabled
+        functions.nameTest(browser, selectors.selector, data.testingOutside)
+    },
+    'testingInside': browser => {
+        browser.expect.element('#saveBtn').to.not.be.enabled
+        functions.nameTest(browser, selectors.selector, data.testingInside)
+    },
+    'testingTwist': browser => {
+        browser.expect.element('#saveBtn').to.not.be.enabled
+        functions.nameTest(browser, selectors.selector, data.testingTwist)
+    }
     }
 
-    // }
-
-}

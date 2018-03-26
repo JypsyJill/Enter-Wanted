@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="tests"
+    errors="0" failures="0" hostname="" id="" package="tests" skipped="0"
+    tests="7" time="85.53" timestamp="Mon, 26 Mar 2018 22:32:34 GMT">
+  
+    <testcase name="New Name Test" classname="tests" time="15.30" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Bad Data Test" classname="tests" time="11.75" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="testingLow" classname="tests" time="11.42" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="testingHigh" classname="tests" time="12.03" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="testingOutside" classname="tests" time="11.71" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="testingInside" classname="tests" time="11.59" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="testingTwist" classname="tests" time="11.73" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
